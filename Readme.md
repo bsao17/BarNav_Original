@@ -1,3 +1,3 @@
 ## Original Navigation 
 
-![navigation]("assets\model.jpg")
+![navigation]("./assets/model.jpg")
